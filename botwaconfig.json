@@ -1,10 +1,10 @@
 {
     "prefix": "!",
-    "ownerNumber": ["628xxxx@c.us", "628xxx@c.us"],
+    "ownerNumber": ["6289661945278@c.us", "6289661945278@c.us"],
     "exegtps": "server.exe",
     "player": "players",
     "world": "worlds",
     "playeronline": "playeronline.txt",
     "gemfolder": "gemdb",
-    "nameserver": "GTPS"
+    "nameserver": "GTSD"
 }
